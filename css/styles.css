@@ -36,6 +36,12 @@ img{
     margin-bottom: 30px;
 }
 
+.main-link{
+    display: block;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
 /* CONTAINER */
 
 .container{
